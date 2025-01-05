@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    color:blue;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: left;
+    color:chocolate;
+}
+
+p {
+    color:blue;
+    font-size: 20px;
+}
+
+span {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol {
+    color: crimson;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    list-style-type: lower-roman;
+}
+
+ul {
+    color: crimson;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    list-style: none;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+    color:blueviolet;
+}
+
